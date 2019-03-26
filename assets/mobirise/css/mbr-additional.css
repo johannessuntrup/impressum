@@ -1296,10 +1296,10 @@ html,body{
 @reveal: false;
 @uname__7: "../../app/themes/mobirise4/components/footer6/../_images/background5.jpg";
 @uname__8: false;
-@uname__9: #232323;
-@bg-value: #232323;
+@uname__9: #ffffff;
+@bg-value: #ffffff;
 @bg-type: "color";
-@bg-color-value: #232323;
+@bg-color-value: #ffffff;
 @bg-parallax: false;
 @overlay: true;
 @overlayColor: #232323;
@@ -1315,5 +1315,9 @@ padding-bottom: (@paddingBottom * 15px);
 }
 .media-container-row .mbr-text {
   text-align: center;
+  color: #232323;
+}
+.media-container-row .mbr-text B {
+  color: #232323;
 }
 }
