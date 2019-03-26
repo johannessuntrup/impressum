@@ -1315,9 +1315,9 @@ padding-bottom: (@paddingBottom * 15px);
 }
 .media-container-row .mbr-text {
   text-align: center;
-  color: #232323;
+  color: #000000;
 }
 .media-container-row .mbr-text B {
-  color: #232323;
+  color: #000000;
 }
 }
